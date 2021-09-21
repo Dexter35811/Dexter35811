@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dexter35811
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me My mailId - ahirmukherjee55@gmail.com
 
 <!---
